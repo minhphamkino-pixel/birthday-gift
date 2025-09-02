@@ -5,7 +5,7 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Tuổi mới chúc Quýt lúc nào cũng tràn đầy niềm vui, cười nhiều hơn và để mấy suy nghĩ tiêu cực ở lại phía sau nhee🥳🔥",
+  "Tuổi mới chúc Quýt lúc nào cũng đầy niềm vui,cười nhiều hơn và để mấy suy nghĩ tiêu cực ở lại phía sau nhee🥳🔥",
   "Miki thì auto điểm cao, vào được CLB tiếng Anh, CLB nhiếp ảnh, trải nghiệm trọn 3 năm cấp thpt 😎✨",
   "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho bro chill tẹt ga 🎁🎉"
 ];
